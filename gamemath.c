@@ -1,6 +1,3 @@
-/*Game deverá solicitar um nível de dificuldade ao usuário e após
-isso gera aleatoriamente um calculo para que possamos informar um resultado.*/
-
 #include <stdio.h>
 #include <stdlib.h>
 
